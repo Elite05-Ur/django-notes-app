@@ -13,6 +13,9 @@
   --color-white: #fff;
   --color-border:#e0e3e6;
 }
+*{
+  color:yellow;
+}
 
 .dark {
   --color-main: #f68657;
